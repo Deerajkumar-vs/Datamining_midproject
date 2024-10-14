@@ -13,10 +13,10 @@ Are online sources from amazon,costco, shoprite, walmart and juicebar is made-up
 - Brute Force Method: A straightforward implementation that exhaustively searches through all possible itemsets and rules.
 - CSV File Input: The ability to load transaction data from a CSV file.
 
-#In order to run:
+## In order to run:
 - Both .ipynb and .py is available.
 - Just run individual cells to run .ipynb
 - To run .py use command python dmsmidtermproject.py
 
-#Installation
+## Installation
 - Run pip install -r requirements.txt
