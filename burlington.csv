@@ -1,6 +1,6 @@
 T01,"Handwarmers, Hat"
 T02,"Muffler, Coat, Trouser"
-T03,"Handbag, Thermals, Trouser, Shoes"
+T03,"Handbag,Thermals, Trouser, Shoes"
 T04,Coat
 T05,"Shoes, Glasses"
 T06,"Gloves, Coat, Shoes, Glasses, Handbag"
@@ -16,5 +16,5 @@ T15,"Handbag, Shoes"
 T16,Muffler
 T17,"Trouser, Thermals, Gloves"
 T18,Shoes
-T19,"Hat, Handwarmers"
+T19,"Hat,Handwarmers"
 T20,"Muffler, Handbag"
